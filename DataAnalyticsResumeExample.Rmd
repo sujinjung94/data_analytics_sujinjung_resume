@@ -1,6 +1,6 @@
 ---
-title: "Kyle Monahan"
-author: Kyle M Monahan
+title: "Sujin Jung"
+author: Sujin Jung
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -20,26 +20,21 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i>kyle.monahan@tufts.edu
-- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
-- <i class="fa fa-phone"></i> +1 123-456-7891
+- <i class="fa fa-envelope"></i>sujin.jung@tufts.edu
+- <i class="fa fa-github"></i> [github.com/sujinjung94/](https://github.com/sujinjung94/)
+- <i class="fa fa-phone"></i> +1 714-345-1991
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in running multivariate regression. 
+- Experienced in various software programs such as Python, MATLAB, Microsoft Office, and Java
 
-- List your **key skills**, linked to the job description.
+- Completed various condition testing of fragranced products under the Yankee Candle portfolio
 
-- Performing **data analysis**, with a focus on engineering models
+- Performed data analysis on current market response to newly launched products
 
-- Experienced in **data communication** and client relations
-
-- Wrote production-level **R/Python/Stata/SQL** 
-
-- **Machine Learning** on cloud platforms (AWS)
-
+- Facilitated testing processes and lab organization 
 
 
 
@@ -55,10 +50,10 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Kyle Monahan {#title}
+Sujin Jung {#title}
 --------------------------------------------------------------------------------
 
-### Data Analytics student seeking Spring 2020 internship
+### Data Analytics student seeking internship or a full-time in Summer 2021
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -66,40 +61,40 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Tufts University
 
-MS Candidate in Data Analysis
+MS Candidate in Innovation and Management
 
 Medford, MA
 
-2014--Current
+2020--Current
 
 
-### Undergraduate University
+### Georgia Tech
 
-B.A. in Finance
+BS in Mechanical Engineering, Minor in Industrial Design
 
-Troy, NY 
+Atlanta, GA 
 
-2008--2012
+2013--2018
 
 
 
-Research Experience {data-icon=flask}
+Professional Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Product Engineer
 
-Tufts University
+Newell Brands
 
-Medford, MA
+Deerfield, MA
 
-2014--2019
+2018--2020
 
-- Developed research questions 
-- Provided additional guidance for undergraduate mentors
+- Tested various fragrance products to confirm product quality and standards
+- Delievered projects that dealt with 100+ SKUs every season, on-quality, on-cost, and on-time
 
 
 
-Selected Project Experience {data-icon=chalkboard-teacher}
+Project Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ### DATA-200 Foundations of Data Analyics 
@@ -108,38 +103,38 @@ Tufts University
 
 Medford, MA
 
-2016--2018
+2020 -- 2021
 
 <!--::: concise-->
-- Deployed a project which predicted likelihood of house purchase with 89% accuracy on data from Boston in 2019.
-- Iterated the model to select the best approach, given neural net, random forest and logistic regression.
+- Deployed a project which investigated the relationship between employment rate and people with disabilities
+- Analyzed what the models tell about the selected group and identified initiatives that can be taken
 <!--:::-->
 
 
 
 
-### Other project
+### Sprint Project
 
 Tufts University
 
 Medford, MA
 
-2015 -- 2018
+2020 -- 2021
 
-- Evaluated 
-- Deployed
-- Managed 
-- Use your action verbs! Attend the Crafting Your Data Science Resume workshop by Kyle Monahan
+- Evaluated the pain points taken from those with physical impairments or families of those that do
+- Created prototype models for testing and received user feedback for improvement
+- Conducted Market Analysis and Go-to Market Strategy, targetting our user group
 
 
 
 Selected Presentations {data-icon=comment-alt}
 --------------------------------------------------------------------------------
 ### DATA-200 Final Project
-Presented a model for housing price detection, and summarized main results and assumptions of the model to my cohort. 
+Presented new models that can bolster our research on the correlation between employment rate and people with disabilities
+Identified new, eye-opening insights and drew conclusions on our new initiatives and next steps
 
 Medford, MA
 
-March 2019
+May 2021
 
 
